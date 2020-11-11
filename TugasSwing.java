@@ -117,3 +117,8 @@ class GUI extends JFrame{
         setLocationRelativeTo(null);
     }
 }
+
+
+//edit
+//edit lagi
+//edit lagi lagi
